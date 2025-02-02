@@ -9,5 +9,7 @@ noBtn.addEventListener("mouseover", () => {
 });
 
 document.getElementById("yes-btn").addEventListener("click", () => {
-    alert("Yay! ❤️ Can't wait for Valentine's Day with you!");
+    alert("Thank you for accepting the invitation. This is your official invitation to be my valentine's date. Make sure to bring this invitation on the day itself.
+
+We had a very hectic semester, and I would like to make this break memorable and fun by spending a day together. (heart emoji)");
 });
